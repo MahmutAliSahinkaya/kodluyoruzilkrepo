@@ -3,7 +3,7 @@ Olasılık, bir olayın gerçekleşme olasılığını ölçen bir matematiksel 
 Bu olasılık, 0 ile 1 arasında bir sayıdır ve 0, olayın kesinlikle gerçekleşmeyeceği anlamına gelirken,
 1 ise olayın kesinlikle gerçekleşeceği anlamına gelir.
 
-# Olasılık örnekleri
+# Olasılık Örnekleri
 
 Bir zar atma olayını ele alalım. Bu olayda, zarın herhangi bir yüzünün üstte kalma olasılığı nedir? 
 Bir zarın altı yüzü vardır ve her yüzün eşit bir olasılıkla üstte kalma şansı vardır. 
