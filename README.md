@@ -1,23 +1,20 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Olasılık Nedir?
+Olasılık, bir olayın gerçekleşme olasılığını ölçen bir matematiksel kavramdır. 
+Bu olasılık, 0 ile 1 arasında bir sayıdır ve 0, olayın kesinlikle gerçekleşmeyeceği anlamına gelirken,
+1 ise olayın kesinlikle gerçekleşeceği anlamına gelir.
 
-# Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+# Olasılık örnekleri
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+Bir zar atma olayını ele alalım. Bu olayda, zarın herhangi bir yüzünün üstte kalma olasılığı nedir? 
+Bir zarın altı yüzü vardır ve her yüzün eşit bir olasılıkla üstte kalma şansı vardır. 
+Bu nedenle, herhangi bir yüzün üstte kalma olasılığı 1/6'dır. Eğer iki zar atılırsa, iki zarın da belli bir yüzünün üstte kalma olasılığı nedir? 
+İki zarın da üstte kalan yüzleri birbirinden bağımsızdır, yani bir zarın üstte kalma olasılığı diğer zarın üstte kalma olasılığını etkilemez. 
+Bu nedenle, iki zarın belli bir yüzünün üstte kalma olasılığı, her zarın üstte kalma olasılığı çarpımına eşittir. Yani, her bir zarın üstte kalma olasılığı 1/6 olduğundan,
+iki zarın belli bir yüzünün üstte kalma olasılığı 1/6 x 1/6 = 1/36'dır.
 
-# Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Başka bir örnek olarak, bir kart destesinden rastgele bir kart seçme olayını ele alalım. 
+Bir kart destesi, 52 karttan oluşur ve her kartın eşit bir olasılıkla seçilme şansı vardır. 
+Bu nedenle, herhangi bir kartın seçilme olasılığı 1/52'dir.
 
-Linux için:
-
-cd kodluyoruzilkrepo
-code .
-
-# Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-# License
-[MIT]([LICENSE](https://choosealicense.com/licenses/mit/))
-
-![Ekran Görüntüsü](https://user-images.githubusercontent.com/107810135/194057168-09f46698-7465-41ad-a702-6735340d3a02.png)
+Sonuç olarak, olasılık kavramı matematikte oldukça önemli bir kavramdır ve birçok gerçek hayat olayı olasılık teorisi ile modellenebilir. 
+Bu konunun sezgisel bir şekilde anlaşılabilmesi için örnekler ve uygulamalar yapmak oldukça faydalıdır.
